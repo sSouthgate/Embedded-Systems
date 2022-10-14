@@ -19,9 +19,12 @@ int main()
     {
         ComplexNumber test(1.0);
         test.display();
+        
     }
+
+
     //test is now out of scope and should be destroyed
 
-    while (true);
+  //  while (true);
 }
 
