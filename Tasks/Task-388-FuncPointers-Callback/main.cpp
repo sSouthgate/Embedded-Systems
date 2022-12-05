@@ -36,12 +36,3 @@ int main() {
     //Start main queue - dispatch
     mainQueue.dispatch_forever();
 }
-
-
-
-
-
-
-
-
-
